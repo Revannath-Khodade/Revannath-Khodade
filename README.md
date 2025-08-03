@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/revannath-khodade-b79231259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revannath-khodade" height="30" width="40" /></a>
 <a href="https://www.facebook.com/RevannathKhodade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="revannath khodade" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@RevannathKhodade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revannathkhodade" height="30" width="40" /></a>
+<a href="https://www.instagram.com/r.e.v.a.n.n.a.t.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revannathkhodade" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@RevannathKhodade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revannathkhodade" height="30" width="40" /></a>
 </p>
 
