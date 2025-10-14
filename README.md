@@ -1,4 +1,3 @@
-![logo](https://github.com/Revannath-Khodade/Revannath-Khodade/blob/main/White%20Border%20Symmetrical%20Image%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Revannath Khodade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
